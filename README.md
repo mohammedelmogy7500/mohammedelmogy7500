@@ -6,12 +6,11 @@ I am a passionate developer focused on **Medical AI**, **Data Analysis**, and cr
 
 ---
 
-### 💡 About Me
-
-- 🧠 **Focused on:** Chest disease detection, medical image classification, and genomic data analysis.
-- 🧪 **Current Project:** Building **Diagnolink** – An integrated app for early chest disease detection.
-- 🛠️ **Technical Interests:** Transfer Learning, CNN optimization, and full-stack AI deployment.
-- 💬 **Motto:** *"Code with purpose. Analyze with curiosity. Build with impact."*
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/mooogyyy/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:mohammed.elmogy7500@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
@@ -26,18 +25,24 @@ I am a passionate developer focused on **Medical AI**, **Data Analysis**, and cr
 
 ---
 
-### 📌 Featured Projects
+### 📊 GitHub Stats & Activity
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
+### 📌 Pinned Projects
 
 - **🧬 Human Resources Analysis** Insight-driven dashboard and employee churn analysis using Pandas & Seaborn.
 - **🧠 Deep Learning VGG16 (CIFAR-10)** High-accuracy image classification using Transfer Learning and CNN fine-tuning.
 - **🛒 Supermarket Sales Analysis** End-to-end EDA project focused on data wrangling and business insight extraction.
-
----
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mooogyyy/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammed.elmogy7500@gmail.com)
 
 ---
 

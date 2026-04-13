@@ -39,9 +39,3 @@ I am a passionate developer focused on **Medical AI**, **Data Analysis**, and cr
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mooogyyy/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammed.elmogy7500@gmail.com)
 
----
-
-### ⚡ Fun Facts
-- ⚽ I enjoy football and applying analytical storytelling to sports data.
-- 🧩 I love solving real-world problems with elegant code.
-- 🎯 Always excited to contribute to open-source medical AI solutions.
